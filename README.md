@@ -2,7 +2,6 @@ Hello there, my name is Giuseppe, and i'm an italian developer. I'm currently st
 
 
 [![Nerone709’s github stats](https://github-readme-stats.vercel.app/api?username=nerone709)](https://github.com/nerone709) </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nerone709)](https://github.com/anuraghazra/github-readme-stats)
 
 Languages: </br> 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
