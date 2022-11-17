@@ -1,5 +1,11 @@
 Hello there, my name is Giuseppe, and i'm an italian developer. I'm currently studying Computer Science at University of Salerno; my passions are videogames and coding. I would like to create my own video game, and work in the world of video game development. </br>
 
+
+[![Nerone709’s github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/nerone709)
+
+
+
+
 Languages: </br> 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
