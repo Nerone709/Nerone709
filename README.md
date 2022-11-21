@@ -1,4 +1,4 @@
-Hello there, my name is Giuseppe, and i'm an italian developer. I'm currently studying Computer Science at University of Salerno (2020 - now); my passions are videogames and coding. I would like to create my own video game, and work in the world of video game development. </br>
+Hello there, my name is Giuseppe, and i'm an italian developer. I'm currently studying Computer Science at University of Salerno </br>**(2020 - now)**; my passions are videogames and coding. I would like to create my own video game, and work in the world of video game development. </br>
 
 
 [![Nerone709’s github stats](https://github-readme-stats.vercel.app/api?username=nerone709)](https://github.com/nerone709) </br> </br>
