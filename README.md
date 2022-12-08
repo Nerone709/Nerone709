@@ -1,4 +1,4 @@
-Hello there, my name is Giuseppe, and i'm an italian developer. I'm currently studying Computer Science at University of Salerno </br>**(2020 - now)**; my passions are videogames and coding. I would like to create my own video game, and work in the world of video game development. </br>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there+my+name+is+Giuseppe;I+love+coding+and+Videogames;Check+my+profile;Enjoy+<3)](https://git.io/typing-svg)
 
 
 [![Nerone709’s github stats](https://github-readme-stats.vercel.app/api?username=nerone709)](https://github.com/nerone709) </br> </br>
