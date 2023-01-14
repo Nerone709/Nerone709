@@ -1,8 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there+my+name+is+Giuseppe;I+love+coding+and+Videogames;Check+my+profile;Enjoy+<3)](https://git.io/typing-svg)
-
-
-[![Nerone709’s github stats](https://github-readme-stats.vercel.app/api?username=nerone709)](https://github.com/nerone709) </br> </br>
-  
  
 **MY SKILLS:**
 
