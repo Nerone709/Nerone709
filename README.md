@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there+my+name+is+Giuseppe;I+love+coding+and+Videogames;Check+my+profile;Enjoy+<3)](https://git.io/typing-svg)
  
-**MY SKILLS:**
+**MY SKILLS**
 
 </br>LANGUAGES: </br> 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
