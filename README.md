@@ -4,4 +4,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nerone709&langs_count=30&count_private=true&show_icons=true&theme=dracula&layout=compact&include_all_commits=true)
 # Contacts and Socials:
 <a href="https://www.linkedin.com/in/giuseppe-napolitano-87b513229/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a><br>
-<a href="https://nerone709.itch.io/"> ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) </a><br>
