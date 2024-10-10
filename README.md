@@ -4,7 +4,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nerone709&langs_count=30&count_private=true&show_icons=true&theme=dracula&layout=compact&include_all_commits=true)
 
 # About me
-Hi i am Giuseppe and I am currently a computer science student at the University of Salerno.  
+I am Giuseppe, an italian developer currently pursuing my master's degree majoring in Software Engineering AND IT Management.
 <img src = "https://preview.redd.it/rpn9kkgtqnyc1.jpeg?auto=webp&s=ab07422351bbd594bb322237591adca90fb67042" width = "400" height = "400"/>
 
 
