@@ -3,7 +3,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nerone709&theme=dracula&count_private=true&include_all_commits=true)
 
 # About me
-I am Giuseppe, an italian developer currently pursuing my master's degree majoring in Software Engineering AND IT Management.
+I am Giuseppe, an italian developer currently pursuing my master's degree majoring in Software Engineering AND IT Management at <a href="https://www.unisa.it">Unisa</a>
 <img src = "https://preview.redd.it/rpn9kkgtqnyc1.jpeg?auto=webp&s=ab07422351bbd594bb322237591adca90fb67042" width = "400" height = "400"/>
 
 
