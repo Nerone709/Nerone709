@@ -4,6 +4,7 @@
 
 # About me
 I am Giuseppe, an italian developer currently pursuing my master's degree majoring in Software Engineering AND IT Management at <a href="https://www.unisa.it">Unisa</a>
+<br>
 <img src = "https://preview.redd.it/rpn9kkgtqnyc1.jpeg?auto=webp&s=ab07422351bbd594bb322237591adca90fb67042" width = "400" height = "400"/>
 
 
