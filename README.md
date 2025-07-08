@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there+my+name+is+Giuseppe;I+love+coding+and+Videogames;Check+my+profile;Enjoy+<3)](https://git.io/typing-svg)
 <p align="center">
-  <img height="100%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Nerone709&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="100%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Nerone709&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img height="150%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Nerone709&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="150%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Nerone709&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Nerone709&theme=tokyonight&hide_border=true&background=FFFFFF00">
   <br>
   <br>
