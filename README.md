@@ -1,9 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there+my+name+is+Giuseppe;I+love+coding+and+Videogames;Check+my+profile;Enjoy+<3)](https://git.io/typing-svg)
-<p align="center">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Nerone709&theme=tokyonight&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
-</p>
 
 <p align="center" width="100%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nerone709&theme=tokyonight" /> 
